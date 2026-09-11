@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Math-013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
 [![DeepLearning.AI](https://img.shields.io/badge/Course-DeepLearning.AI-orange.svg)](https://www.deeplearning.ai/)
+
+
 [![Deep Learning Certificate](certificate.png)](certificate.png)
 
 This repository contains implementations of deep neural network architectures built entirely **from scratch using Python and NumPy**, without relying on high-level deep learning frameworks like TensorFlow or PyTorch. The code and exercises were implemented as part of the renowned **DeepLearning.AI** specialization instructed by **Andrew Ng**.
